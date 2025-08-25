@@ -1,0 +1,6 @@
+# force LF for all text; explicitly for shell & All* helpers
+* text=auto eol=lf
+*.sh text eol=lf
+Allrun text eol=lf
+Allwmake text eol=lf
+Allwclean text eol=lf
